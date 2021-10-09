@@ -20,7 +20,7 @@ But when you run the same script only a short while later, you run into a discou
 Once the site’s structure has changed, your scraper might not be able to navigate the sitemap correctly or find the relevant information. 
 he good news is that many changes to websites are small and incremental, so you’ll likely be able to update your scraper with only minimal adjustments.
 
-## An Alternative to Web Scraping: APIs
+## An Alternative to Web Scraping?: APIs
 
 - Some website providers offer application programming interfaces (APIs) that allow you to access their data in a predefined manner. 
 - With APIs, you can avoid parsing HTML. 
